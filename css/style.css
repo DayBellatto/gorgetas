@@ -1,7 +1,7 @@
 :root {
-    --primary-color: lightcoral; /* Define a cor primária como lightcoral */
-    --secondary-color: DimGray; /* Define a cor secundária como DimGray */
-    --tertiary-color: Gainsboro; /* Define a cor terciária como Gainsboro */
+    --primary-color: rgb(229, 128, 240); /* Define a cor primária como rosa claro */
+    --secondary-color: rgb(255, 255, 255); /* Define a cor secundária como  branco */
+    --tertiary-color: rgb(242, 6, 230); /* Define a cor terciária como pink */
 }
 
 body {
