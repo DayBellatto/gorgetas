@@ -2,10 +2,6 @@
 
 Uma calculadora de gorjetas que permite calcular o valor da gorjeta com base no valor total da conta, na qualidade do serviço e no número de pessoas que vão dividir a conta.
 
-## Demonstração
-
-![Calculadora de Gorjetas](https://github.com/userThaliaoliveira/gorgetas/assets/97253671/efb42b96-9de1-4877-b6b4-af0b6bebad4a)
-
 ## Como usar
 
 - Faça o clone ou o download deste repositório.
